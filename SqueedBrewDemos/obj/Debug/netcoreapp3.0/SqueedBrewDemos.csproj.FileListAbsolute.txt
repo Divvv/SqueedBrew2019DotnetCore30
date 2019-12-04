@@ -1,0 +1,11 @@
+C:\Users\Div\Desktop\SqueedBrewDemos\SqueedBrewDemos\bin\Debug\netcoreapp3.0\SqueedBrewDemos.exe
+C:\Users\Div\Desktop\SqueedBrewDemos\SqueedBrewDemos\bin\Debug\netcoreapp3.0\SqueedBrewDemos.deps.json
+C:\Users\Div\Desktop\SqueedBrewDemos\SqueedBrewDemos\bin\Debug\netcoreapp3.0\SqueedBrewDemos.runtimeconfig.json
+C:\Users\Div\Desktop\SqueedBrewDemos\SqueedBrewDemos\bin\Debug\netcoreapp3.0\SqueedBrewDemos.runtimeconfig.dev.json
+C:\Users\Div\Desktop\SqueedBrewDemos\SqueedBrewDemos\bin\Debug\netcoreapp3.0\SqueedBrewDemos.dll
+C:\Users\Div\Desktop\SqueedBrewDemos\SqueedBrewDemos\bin\Debug\netcoreapp3.0\SqueedBrewDemos.pdb
+C:\Users\Div\Desktop\SqueedBrewDemos\SqueedBrewDemos\obj\Debug\netcoreapp3.0\SqueedBrewDemos.csprojAssemblyReference.cache
+C:\Users\Div\Desktop\SqueedBrewDemos\SqueedBrewDemos\obj\Debug\netcoreapp3.0\SqueedBrewDemos.AssemblyInfoInputs.cache
+C:\Users\Div\Desktop\SqueedBrewDemos\SqueedBrewDemos\obj\Debug\netcoreapp3.0\SqueedBrewDemos.AssemblyInfo.cs
+C:\Users\Div\Desktop\SqueedBrewDemos\SqueedBrewDemos\obj\Debug\netcoreapp3.0\SqueedBrewDemos.dll
+C:\Users\Div\Desktop\SqueedBrewDemos\SqueedBrewDemos\obj\Debug\netcoreapp3.0\SqueedBrewDemos.pdb
